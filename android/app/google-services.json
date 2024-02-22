@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "248625037252",
+    "project_id": "seniors-go-digital-9efda",
+    "storage_bucket": "seniors-go-digital-9efda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248625037252:android:f4db2b85d4c44014832e91",
+        "android_client_info": {
+          "package_name": "com.example.seniors_go_digital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248625037252-b2tpgorrurkpu1cv0mn3md5ohr1bmndu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYFyhqBbE__9uHYYkPUDHpicr7FpDBAEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248625037252-b2tpgorrurkpu1cv0mn3md5ohr1bmndu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "248625037252-dcp0kfgskt55ob4fbb22bdopvvson2ed.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.seniorsGoDigital.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
